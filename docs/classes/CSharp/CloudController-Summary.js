@@ -1,0 +1,1 @@
+﻿NDFramePage.OnPageTitleLoaded("CSharpClass:CloudController","CloudController");NDSummary.OnSummaryLoaded("CSharpClass:CloudController",[["C#","CSharp"]],[["Classes","Class"],["Functions","Function"],["Groups","Group"]],[[221,0,0,"CloudController"],[222,0,2,"Functions","Functions"],[223,0,1,"Update","Update"]]);

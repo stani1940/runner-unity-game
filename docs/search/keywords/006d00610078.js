@@ -1,0 +1,1 @@
+﻿NDSearch.OnPrefixDataLoaded("max",["Variable"],[["maxHealth",,[["EnemyController",,,,0,"File:EnemyController.cs:EnemyController.maxHealth","CSharpClass:EnemyController:maxHealth"]]],["maxSpeed",,[["PlayerController",,,,0,"File:PlayerController.cs:PlayerController.maxSpeed","CSharpClass:PlayerController:maxSpeed"]]]]);
